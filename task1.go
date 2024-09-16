@@ -1,0 +1,1 @@
+package go_testing_intrn
